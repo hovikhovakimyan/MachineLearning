@@ -1,2 +1,2 @@
-# MachineLearning
- Collection of my machine learning projects
+# MachineLearning and Data Science
+ This repository hosts Python-based projects demonstrating applications of various machine learning algorithms, statistical models, and data visualization techniques.This collection encompasses work on traditional machine learning models, mathematics applied to data science and machine learning, along with deep neural networks, all demonstrated in Jupyter Notebook files.
